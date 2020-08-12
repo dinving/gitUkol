@@ -69,3 +69,9 @@ h2 {
   text-align: center;
   color: orangered;
 }
+
+/* Upravte styly třídy ".column", aby byla nastavena nastavena velikost elementu na "border-box". Přidejte elementu ".column" hranici o nepřerušované tloušce 15px o bílé barvě. Nastavte pozadí elementu na #74b9ff .*/
+.column {
+  border: solid 15px white;
+  background-color: #74b9ff;
+}
